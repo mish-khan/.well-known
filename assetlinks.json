@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cv.mish.base",
+    "sha256_cert_fingerprints":
+    ["D2:CC:8C:FB:91:07:1B:A3:F8:BE:C8:D1:3D:86:C7:ED:FA:3F:DB:49:19:7B:E4:97:A9:5C:12:64:0E:C7:29:73"]
+  }
+}]
